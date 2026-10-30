@@ -15,7 +15,7 @@ while True:
     0-Sair
     ''')
 
-    opçao = int(input("escolha uma opção: "))
+    opçao = int(input("Escolha uma opção: "))
 
     match opçao:
         case 1:("\n== CADASTRAR UM PRODUTO ==")
