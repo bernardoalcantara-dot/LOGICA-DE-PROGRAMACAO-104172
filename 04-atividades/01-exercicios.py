@@ -9,7 +9,7 @@ while True:
     === MENU ===
     S - inserir uma nota
     N - calcular media aritmetica
-    ''')
+''')
 
     resposta = float(input("Deseja inderir uma nota? ")).lower()
 
@@ -19,7 +19,7 @@ while True:
             soma += nota
         case "n":
                 break
-            case_:
+        case:
                 print("Opção invalida! \n")
                 input("Pressione uma tecla para continuar...")
 
